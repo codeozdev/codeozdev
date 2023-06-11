@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CODEOZ</h1>
 <h3 align="center">Uçamayan kuş</h3>
 
-<div style="display: flex; justify-content: start; align-items: center; gap: 5px;"><img alt="arrow_right" src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png" width="25" height="20"/><p style="display: inline-block;">I’m currently working on <strong>Nextjs</strong></p></div>
+- 🔭 I’m currently working on **Nextjs**
 
-- ➡️ I’m currently learning **Nextjs-TypeScript-C#**
+- 🌱 I’m currently learning **Nextjs-TypeScript-C#**
 
-- ✉️ How to reach me **codeoz@proton.me**
+- 📫 How to reach me **codeoz@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
