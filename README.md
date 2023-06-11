@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CODEOZ</h1>
 <h3 align="center">Uçamayan kuş</h3>
 
-- 🔭 I’m currently working on **Nextjs**
+- ➡️ I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **Nextjs-TypeScript-C#**
+- ➡️ I’m currently learning **Nextjs-TypeScript-C#**
 
-- 📫 How to reach me **codeoz@proton.me**
+- ✉️ How to reach me **codeoz@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
