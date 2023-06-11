@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm CODEOZ</h1>
 <h3 align="center">Uçamayan kuş</h3>
 
-<div style="display: flex; justify-content: start; align-items: center; gap: 5px;">
-<imgalt="arrow_right" src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png" width="25" height="20"/><p>I’m currently working on <strong>Nextjs</strong></p></di>
+<div style="display: flex; justify-content: start; align-items: center; gap: 5px;"><img alt="arrow_right" src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png" width="25" height="20"/><p>I’m currently working on <strong>Nextjs</strong></p></di>
 
 - ➡️ I’m currently learning **Nextjs-TypeScript-C#**
 
