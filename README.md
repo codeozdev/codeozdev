@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm CODEOZ</h1>
 <h3 align="center">Uçamayan kuş</h3>
 
-- 🌱 I’m currently learning **NextJS-TypeScript-C#**
+- 🔭 I’m currently working on **Nextjs**
+
+- 🌱 I’m currently learning **Nextjs-TypeScript-C#**
 
 - 📫 How to reach me **codeoz@proton.me**
 
