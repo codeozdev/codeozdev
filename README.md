@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm CODEOZ</h1>
-<h3 align="center">Uçamayan kuş</h3>
 
 - 🔭 I’m currently working on **Nextjs**
 
