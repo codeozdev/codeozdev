@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeozdev&show_icons=true&locale=en&layout=compact" alt="codeozdev" /></p>
