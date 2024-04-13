@@ -94,3 +94,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/codeozdev/codeozdev/output/snake.svg" alt="Snake animation" />
+
+###
