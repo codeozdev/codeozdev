@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://e0.pxfuel.com/wallpapers/785/995/desktop-wallpaper-developer-developer-html-developer-and-web-developer-web-programming.jpg" align="center" height="250" width="1100" />
-</div>  
-  
-
 ### <div align="center">hey 👋, I'm Oğuzhan Uğuz</div>  
   
 
