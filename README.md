@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Uğuz</h1>
-<h3 align="center">Full-Stack Developer | AI Integration Enthusiast | Based in Türkiye</h3>
+<h3 align="center">Full-Stack Developer (Backend-Focused) | AI Integration Enthusiast | Based in Türkiye</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codeozdev&label=Profile%20views&color=0e75b6&style=flat" alt="codeozdev" />
