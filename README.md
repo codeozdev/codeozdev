@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeozdev&show_icons=true&locale=en&layout=compact" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=codeozdev&show_icons=true&locale=en" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeozdev" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uguzdev&show_icons=true&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uguzdev&show_icons=true&locale=en" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uguzdev" height="150"/>
 </div>
